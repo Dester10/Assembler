@@ -1,5 +1,3 @@
-TITLE ;4.4.2_Semenyuchenko
-
 INCLUDE Irvine32.inc
 
 .data
