@@ -1,10 +1,8 @@
-TITLE ;3.4.2_Semenyuchenko
-    
     INCLUDE Irvine32.inc
 
 .data
     ; (variables)
-    arText BYTE "νΰζΰλ κΰαΰν νΰ αΰκλΰζΰν"
+    arText BYTE "Γ­Γ Γ¦Γ Γ« ΓͺΓ Γ‘Γ Γ­ Γ­Γ  Γ‘Γ ΓͺΓ«Γ Γ¦Γ Γ­"
     arResult BYTE SIZEOF arText DUP(?)
 	
 .code
